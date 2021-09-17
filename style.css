@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: green;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+}
+
+a{
+  color: yellow;
+}
+
+footer{
+    background-color: yellow;
+}
+
+main a{
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+}
